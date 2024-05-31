@@ -1,8 +1,8 @@
 import { View, Text, StyleSheet, ScrollView } from "react-native";
-import Frame1 from "./components/Frame1";
-import SearchBar from "./components/SearchBar";
-import CategorySection from "./components/CategorySection";
-import OngoingTask from "./components/OngoingTask";
+import Frame1 from "./projectComponents/Frame1";
+import SearchBar from "./projectComponents/SearchBar";
+import CategorySection from "./projectComponents/CategorySection";
+import OngoingTask from "./projectComponents/OngoingTask";
 
 export default function App() {
   return (
